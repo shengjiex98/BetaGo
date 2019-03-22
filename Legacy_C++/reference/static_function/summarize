@@ -1,0 +1,1 @@
+Commonly if there are two ‘.cpp’ files which include one same ‘.h’ file, they cannot have functions that have the same name.

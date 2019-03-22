@@ -1,0 +1,15 @@
+
+
+// There is no order constrain for define, as following:
+
+#define k 6
+#define z k
+.
+.
+.
+printf("%d\n", z);
+
+// --- result --- //
+
+$ 6
+

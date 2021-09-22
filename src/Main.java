@@ -7,7 +7,7 @@ public class Main implements StandardRule {
 
         // Define players HERE:
         Player p1 = new AI(BLACK);
-        Player p2 = new AI2(WHITE);
+        Player p2 = new Human(WHITE);
 
         int currentPlayer = BLACK;
         boolean handlingException = false;
